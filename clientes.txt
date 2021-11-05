@@ -1,0 +1,502 @@
+Código	Empresa	Status	Editar	Excluir
+100	Krolik Telefonia em Nuvem	Ativa		
+349	(CANCELADO) A Formula - P&L Farmácia Especial de Manipulação Ltda	Inativa		
+134	(CANCELADO) Apoio Assessoria Imobiliária - Campos Gerias Assessoria imb. Ltda	Inativa		
+375	(CANCELADO) Bpo Innova Brasil Rj Serviços Contabeis S/S Ltda	Inativa		
+577	(CANCELADO) C D L - Camara de Dirigentes Lojistas de Vitoria	Inativa		
+360	(CANCELADO) Credlis - Graciele Fernandes	Inativa		
+567	(CANCELADO) Drogaria Dufarma Eireli	Inativa		
+111	(CANCELADO) Expanseg - Corretora de Seguros Ltda	Inativa		
+126	(CANCELADO) Farmácia Alquevitta Ltda	Inativa		
+411	(CANCELADO) Impacto Prime - V.A de Lima Serviços Automotivos	Inativa		
+377	(CANCELADO) Impacto Uberaba Centro Automotivo - Rr Minas Comércio de Pneus Ltda	Inativa		
+148	(CANCELADO) Jireh Cred - Walter Tiago Pereira	Inativa		
+484	(CANCELADO) José Cláudio Catisti de Seixas	Inativa		
+524	(CANCELADO) L M Telecom - Lopes Maciel Telecom Ltda	Inativa		
+582	(CANCELADO) Liege Caroline Silva Beniti	Inativa		
+429	(CANCELADO) Mercedes Benz - Peres Diesel Veículos Ltda	Inativa		
+149	(CANCELADO) Patrocar Joao Bim - Guarujá Auto Center Eireli Me	Inativa		
+150	(CANCELADO) Patrocar Meira Junior - Dumont Auto Center Eireli Me	Inativa		
+151	(CANCELADO) Patrocar Saudade - Clapp Auto Center Eireli Me	Inativa		
+437	(CANCELADO) PFG Incorporações de Bens Próprios Ltda	Inativa		
+299	(CANCELADO) Pizzaria Prima Classe - Rasafer Pizzaria Ltda Me	Inativa		
+355	(CANCELADO) Prime Soluções Financeiras	Inativa		
+400	(CANCELADO) RDR Transportes LTDA	Inativa		
+550	(CANCELADO) Seven Tecnologia Ltda	Inativa		
+339	(CANCELADO) Sidney Aquino Treinamento para desenv. Humano Eireli	Inativa		
+472	(CANCELADO) Thyseenkrupp Infrastructure Brasil Ltda	Inativa		
+135	(CANCELADO) Vazoli São José do Rio Pardo - Rubens Pedetri Flho	Inativa		
+107	(CANCELADO) Vazoli Taquaritinga - Delvaz Serv. de Informações Cad. Ltda	Inativa		
+496	(SRV PROPRIO) Metalsystem Informatica Ltda	Ativa		
+119	A Calura casa e construção Ltda	Ativa		
+357	Absoluta Seguros Consultoria e Corretora de Seguros SA	Ativa		
+570	Ac Arquitetura e Consultoria Epp	Ativa		
+553	Aclean Embalagens Descartáveis e Produtos Químicos Ltda Me	Ativa		
+356	ACTI Consultoria - Diego Azenha dos Santos Me	Ativa		
+423	AD Promotora de Negocios	Ativa		
+378	Aerotrading Aviacao Ltda	Ativa		
+372	Agaxtur Viagens - ASM Marcato	Ativa		
+409	Agencia Led - Assiva Agencia de Serviços	Ativa		
+112	Akifruti Ltda Me	Ativa		
+454	Alex Stewart Armazéns Gerais do Brasil Ltda	Ativa		
+474	Aliança Francesa - Inst. de Espanhol Cristóbal Colón Ltda	Ativa		
+159	Alianca M M Serviços e Representações Comerciais Ltda Me	Ativa		
+380	Alto da Fiusa Auto Posto	Ativa		
+104	Anhanguera - Halley & Silva - Luiz Matheus da Silva Halley	Ativa		
+585	Ap Grafica e Editora Ltda	Ativa		
+110	Apiz soluções em credito digital Ltda	Ativa		
+449	Ar Online - Ar Online Tecnologia Ltda	Ativa		
+451	Arcon - Daniel Alexandre Perazzini Torrieri	Ativa		
+381	Arena Mídia - Mkt Digital	Ativa		
+371	Asf Consultoria - Andre Salvador	Ativa		
+147	Atf Recuperação de Crédito Ltda	Ativa		
+422	AUPES - Associação Unificada Pirassunuguense Ensino Superior	Ativa		
+152	Auto Prime Ltda Epp	Ativa		
+522	Backup Brasil Sistemas Ltda	Ativa		
+464	BBPlus Promotora - Jose Raimundo do Nascimento Eireli Me	Ativa		
+351	Belimed Produtos Medicos Ltda	Ativa		
+383	BHS Tecnologia Ltda	Ativa		
+121	Biocenter Análises Clínicas s/s	Ativa		
+504	Biopremium Tecnologia em Agropecuaria indústria e comercio Ltda	Ativa		
+450	Blue Star Climatização - Davi Busa Mota	Ativa		
+379	BNT Condomínios - Alan Augusto Beniti	Ativa		
+143	Bota Restaurante Mediterraneo Eireli Me	Ativa		
+426	Brasil Vc Consultoria e Corretora de Seguros Ltda	Ativa		
+565	Braspy Construtora e Comercio de Importados Ltda	Ativa		
+105	BTG Pactual - Venice Agente Autônomo de Investimento S/S	Ativa		
+282	BVPM Distribuidora de Pneus Eireli Epp	Ativa		
+385	Canaã Express Eireli ME	Ativa		
+576	Capricciosa - Pasta & Basta Alimentos Ltda	Ativa		
+525	Cargo Polo Transportes - Cargo Polo Comércio Logística e Transportes Eireli	Ativa		
+528	Cascata - Wilson Cesar Ferraz Martins	Ativa		
+592	Cedro Alimentos - C. M de Oliveira Eireli	Ativa		
+421	Cia Sat Gerenciamento Via Satélite LTDA	Ativa		
+433	Cical Chevrolet - Cical Veículos Ltda	Ativa		
+138	Cical Nissan - Wjj Veiculos Ltda	Ativa		
+113	Clinica Batistela s/s	Ativa		
+431	Clínica Renascence Dermatologia - Paschoal e Paschoal Serviços Medicos S.S	Ativa		
+155	Condomínio Alto do Vale - Pereira Alvim	Ativa		
+498	Condomínio Ana Carolina (N.T)	Ativa		
+118	Conexo Business Advantages Ltda	Ativa		
+117	Construtora MKM - M.K.M. Engenharia Construções e Comercio Eireli	Ativa		
+396	Construtora Pacaembu - Pacaembu Construtora S.A	Ativa		
+505	Construtrio Engenharia e Comercio de Materiais p/ Construção Ltda	Ativa		
+141	Contabilidade Benassi Eireli Me	Ativa		
+471	Contato Soluções Comerciais - Debora Quintino	Ativa		
+513	Contec Contabilidade de Monte Alto Eireli	Ativa		
+590	Del Rosso Auto Center - Dr Auto Center Peças para Veículos Eireli	Ativa		
+125	Dimetal Distribuidora de Metais Pasqualin Ltda	Ativa		
+485	Dljpmc Informatica cursos e treinamentos e serviços administrativos Ltda	Ativa		
+534	Dona Desiree - Desiree Leblon Alimentos Ltda	Ativa		
+586	Dprinter Distribuidora de Tecnologia de Impressão Ltda	Ativa		
+439	Dvc Corretagem de Seguros e Beneficios Ltda	Ativa		
+373	Elv Morumbi Comercio de Veiculos Eireli	Ativa		
+462	Emak do Brasil Industria Ltda	Ativa		
+495	Engenho - Pesquisa Desenvolvimento e Consultoria Ltda	Ativa		
+103	Escola São Mateus - Halley & Artico da Silva S/S Ltda	Ativa		
+389	Evolve Capital Gestao de Recursos Ltda	Ativa		
+157	Extensão Auto Center, Marketing e Eventos Ltda	Ativa		
+499	FAEC - Faculdade Atitude de Educação Continuada Ltda - Me	Ativa		
+115	Febracis São Paulo - Treinamento em Desenv. Profissional e Gerencial	Ativa		
+131	Frederico Ivo - Sociedade Individual de Advocacia	Ativa		
+142	Garage 29 Auto Center	Ativa		
+555	Garzon Pool - Lga Piscinas e Acessórios Ltda	Ativa		
+101	Gasparini Solucoes em Filipe	Inativa		
+122	Global Alpinismo - Global Resgate e Manutenção Industrial Eireli	Ativa		
+574	Global Trade Technology Comercio Importação Ltda	Ativa		
+139	Gr Parceria - Consultlog Servicos de Controle de Trafego Eireli	Ativa		
+399	Gráfica Quatro Pontos	Ativa		
+420	Gvn Corretores Encaminhamentos de propostas Eireli	Ativa		
+519	Iceland - Confeitaria Iceland Ltda	Ativa		
+387	Iguatemi Ribeirão Preto - Condomínio Complexo Iguatemi Ribeirão Preto	Ativa		
+232	Imobiliária Trade Ltda	Ativa		
+503	Infratelle - L F Machado Telecomunicações	Ativa		
+137	Intherconnect - Cabos e Componentes Ltda	Ativa		
+146	J Log Transportes Ltda	Ativa		
+583	Jeytech Comercial e Tecnologia Ltda	Ativa		
+393	JR Transportes - JL Marques Junior	Inativa		
+490	Laguamarti Logistica e Transporte Ltda	Ativa		
+575	Loja do Lubrificante - D. L Gomes Comercio de lubrificante	Ativa		
+106	Lpf Distribuidora Eireli	Ativa		
+154	M. D Industria Química Ltda	Ativa		
+491	Mac Frio - Marcelo Alessandro da Costa Eletrodomésticos	Ativa		
+588	Macpross - Comercio e Distribuição de Acos e Metais Eireli Me	Ativa		
+518	Markanti - Acs Informatica Comercio e Manutenção Eireli	Ativa		
+412	Master Perfurações e Desmontes Ltda	Ativa		
+124	Maxclin Sociedade simples	Ativa		
+394	MBM Global Trading Importação e Exportação Ltda	Ativa		
+466	Mbo Assessoria Contabil e Empresarial Ltda	Ativa		
+480	Medicamental Hospitalar - Medicamental Distribuidora Ltda	Ativa		
+123	Montar Montagens e Locações - Marli e Generoso da Cruz Pissardo	Ativa		
+158	Moranguinho Hortifrut Ltda	Ativa		
+300	Mosaik Digital - Msk Digital Ltda Epp	Ativa		
+447	Movimente Soluções em Transportes Ltda	Ativa		
+584	Movplan - Mp&q Industria de Imobiliário e Tecnologia Educacional Eireli	Ativa		
+479	Msk Fashion Eireli	Ativa		
+376	Múltipla TI - Medeiros e Sales Advogados Associados	Ativa		
+445	Mvt Campinas - Comercio Logistica e Soluções em Transportes	Ativa		
+457	Nova Informe Soluções Contabeis Ltda	Ativa		
+564	NW3 Propaganda e Marketing Ltda	Ativa		
+109	Oakberry Açai Sensolo Ltda	Ativa		
+386	Odonto Excellence - Centro Odontológico Eduardo Landi	Ativa		
+561	Partmed-Clinica Medica Matos Saude -Eireli	Ativa		
+140	Patrocar Francisco Junqueira - Florianópolis Auto Center Eireli Epp	Ativa		
+102	Paulo Roberto Titoto	Ativa		
+347	Piracred Serviços de Elaboração de Ficha Cadastrais Ltda	Ativa		
+395	Planeart - N Gomide Moveis	Ativa		
+353	Planpet Assistencia Medica para Animais Ltda	Ativa		
+492	Play Technology T.I. Eireli	Ativa		
+398	Portugal Química Ltda	Ativa		
+153	Precision Comercial Distribuidora de Produtos Médicos Hospitalares Ltda	Ativa		
+145	Prime Solucoes Empresariais - Prime Ribeirao Solucoes Empresariais Ltda Epp	Ativa		
+591	Primeiro Assessoria - Primeiro Contabilidade Ltda	Ativa		
+114	Printsys Comercial e Serviços Ltda	Ativa		
+132	Pro - Log Solucoes Logistica Limitada	Ativa		
+483	Prumos Invest Fomento Mercantil Ltda	Ativa		
+366	R&O - Ragazzi & Oliveira Urbanismo	Ativa		
+515	Rapidão Goiania Logistica e Transporte Ltda	Ativa		
+208	Realiza TI - Web Software Ltda Me	Ativa		
+500	Rebraziles Industria Integradora de Infraestrutura e Tec. Eireli	Ativa		
+401	Ribercaixas - Industria e Comercio de Embalagens Ltda	Ativa		
+493	Ribercred Serviços de Informações Cadastrais Ltda	Ativa		
+435	Rodoviário Crismara Ltda	Ativa		
+580	Rose Meire Napoleão da Silva	Ativa		
+367	Rp Compras - Elétrica e Eletrônicos Rp Compras Ltda	Ativa		
+467	Rp Sat Rastreamento Via Satelite Ltda	Ativa		
+560	Rtl Consultoria Contabil e Empresarial Eireli	Ativa		
+402	Safe TI - Info Tecnologia da Informação Ltda Me	Ativa		
+456	SERVIDORES KROLIK	Ativa		
+558	Sicoob Botucatu - Cooperativa de Credito	Ativa		
+516	Sicoob Campos Gerais - Cooperativa de Credito	Ativa		
+494	Sicoob Casa Branca - Cooperativa de Credito	Ativa		
+506	Sicoob Cassia - Cooperativa de Credito	Ativa		
+517	Sicoob Cristais Paulista - Cooperativa de Credito	Ativa		
+529	Sicoob Franca - Cooperativa de Credito	Ativa		
+579	Sicoob Guara - Cooperativa de Credito	Ativa		
+572	Sicoob Patrocinio Paulista - Cooperativa de Credito	Ativa		
+443	Sicoob RP - Cooperativa de Credito	Ativa		
+509	Sicoob S.José da Bela Vista - Cooperativa de Credito	Ativa		
+488	Sicoob Sales Oliveira - Cooperativa de Credito	Ativa		
+384	Sitio Caju - Caju Projetos e Empreendimentos	Ativa		
+562	Skip Group Servicos e Tecnologia da Informacao LTDA	Ativa		
+403	Sol Millennium Brasil	Ativa		
+243	Somativa Tecnologia ME	Ativa		
+128	Sonoda Equipamentos Importação e Exportação Eireli Me	Ativa		
+404	Spadoni e Carvalho Sociedade de Advogados	Ativa		
+512	Spasse Telecon - Sp Telecon Intermediações e Negócios Ltda	Ativa		
+144	Spazio Capelli Concetto - Studio da Vila Brooklin Ltda Me	Ativa		
+405	Spel Engenharia LTDA	Ativa		
+133	Start Silk Comercio de Confeccoes Ltda	Ativa		
+180	TN Promotora de Negocios Ltda	Ativa		
+434	Total cs Corretora de Seguros Ltda	Ativa		
+129	Trevo Seg. Consultoria e Corretora de Seguros Ltda	Ativa		
+481	Trinity Ti Soluções Tecnológicas de Inf. Ltda	Ativa		
+156	Ultra Farma RP - Fast Farma Ribeirão Ltda Me	Ativa		
+446	Ultramix Comercio de Alimentos e Bebidas Ltda	Ativa		
+160	vago160	Inativa		
+161	vago161	Inativa		
+162	vago162	Inativa		
+163	vago163	Inativa		
+164	vago164	Inativa		
+165	vago165	Inativa		
+166	vago166	Inativa		
+167	vago167	Inativa		
+168	vago168	Inativa		
+169	vago169	Inativa		
+170	vago170	Inativa		
+171	vago171	Inativa		
+172	vago172	Inativa		
+173	vago173	Inativa		
+174	vago174	Inativa		
+175	vago175	Inativa		
+176	vago176	Inativa		
+177	vago177	Inativa		
+178	vago178	Inativa		
+179	vago179	Inativa		
+181	vago181	Inativa		
+182	vago182	Inativa		
+183	vago183	Inativa		
+184	vago184	Inativa		
+185	vago185	Inativa		
+186	vago186	Inativa		
+187	vago187	Inativa		
+188	vago188	Inativa		
+189	vago189	Inativa		
+190	vago190	Inativa		
+191	vago191	Inativa		
+192	vago192	Inativa		
+193	vago193	Inativa		
+194	vago194	Inativa		
+195	vago195	Inativa		
+196	vago196	Inativa		
+197	vago197	Inativa		
+198	vago198	Inativa		
+199	vago199	Inativa		
+200	vago200	Inativa		
+201	vago201	Inativa		
+202	vago202	Inativa		
+203	vago203	Inativa		
+204	vago204	Inativa		
+205	vago205	Inativa		
+206	vago206	Inativa		
+207	vago207	Inativa		
+209	vago209	Inativa		
+210	vago210	Inativa		
+211	vago211	Inativa		
+212	vago212	Inativa		
+213	vago213	Inativa		
+214	vago214	Inativa		
+215	vago215	Inativa		
+216	vago216	Inativa		
+217	vago217	Inativa		
+218	vago218	Inativa		
+219	vago219	Inativa		
+220	vago220	Inativa		
+221	vago221	Inativa		
+222	vago222	Inativa		
+223	vago223	Inativa		
+224	vago224	Inativa		
+225	vago225	Inativa		
+226	vago226	Inativa		
+227	vago227	Inativa		
+228	vago228	Inativa		
+229	vago229	Inativa		
+230	vago230	Inativa		
+231	vago231	Inativa		
+233	vago233	Inativa		
+234	vago234	Inativa		
+235	vago235	Inativa		
+236	vago236	Inativa		
+237	vago237	Inativa		
+238	vago238	Inativa		
+239	vago239	Inativa		
+240	vago240	Inativa		
+241	vago241	Inativa		
+242	vago242	Inativa		
+244	vago244	Inativa		
+245	vago245	Inativa		
+246	vago246	Inativa		
+247	vago247	Inativa		
+248	vago248	Inativa		
+249	vago249	Inativa		
+250	vago250	Inativa		
+251	vago251	Inativa		
+252	vago252	Inativa		
+253	vago253	Inativa		
+254	vago254	Inativa		
+255	vago255	Inativa		
+256	vago256	Inativa		
+257	vago257	Inativa		
+258	vago258	Inativa		
+259	vago259	Inativa		
+260	vago260	Inativa		
+261	vago261	Inativa		
+262	vago262	Inativa		
+263	vago263	Inativa		
+264	vago264	Inativa		
+265	vago265	Inativa		
+266	vago266	Inativa		
+267	vago267	Inativa		
+268	vago268	Inativa		
+269	vago269	Inativa		
+270	vago270	Inativa		
+271	vago271	Inativa		
+272	vago272	Inativa		
+273	vago273	Inativa		
+274	vago274	Inativa		
+275	vago275	Inativa		
+276	vago276	Inativa		
+277	vago277	Inativa		
+278	vago278	Inativa		
+279	vago279	Inativa		
+280	vago280	Inativa		
+281	vago281	Inativa		
+283	vago283	Inativa		
+284	vago284	Inativa		
+285	vago285	Inativa		
+287	vago287	Inativa		
+288	vago288	Inativa		
+289	vago289	Inativa		
+290	vago290	Inativa		
+291	vago291	Inativa		
+292	vago292	Inativa		
+293	vago293	Inativa		
+294	vago294	Inativa		
+295	vago295	Inativa		
+296	vago296	Inativa		
+297	vago297	Inativa		
+298	vago298	Inativa		
+301	vago301	Inativa		
+302	vago302	Inativa		
+303	vago303	Inativa		
+304	vago304	Inativa		
+305	vago305	Inativa		
+306	vago306	Inativa		
+307	vago307	Inativa		
+308	vago308	Inativa		
+309	vago309	Inativa		
+310	vago310	Inativa		
+311	vago311	Inativa		
+312	vago312	Inativa		
+313	vago313	Inativa		
+314	vago314	Inativa		
+315	vago315	Inativa		
+316	vago316	Inativa		
+317	vago317	Inativa		
+318	vago318	Inativa		
+319	vago319	Inativa		
+320	vago320	Inativa		
+321	vago321	Inativa		
+322	vago322	Inativa		
+323	vago323	Inativa		
+324	vago324	Inativa		
+325	vago325	Inativa		
+326	vago326	Inativa		
+327	vago327	Inativa		
+328	vago328	Inativa		
+329	vago329	Inativa		
+330	vago330	Inativa		
+331	vago331	Inativa		
+332	vago332	Inativa		
+333	vago333	Inativa		
+334	vago334	Inativa		
+335	vago335	Inativa		
+336	vago336	Inativa		
+337	vago337	Inativa		
+338	vago338	Inativa		
+340	vago340	Inativa		
+341	vago341	Inativa		
+342	vago342	Inativa		
+343	vago343	Inativa		
+344	vago344	Inativa		
+345	vago345	Inativa		
+346	vago346	Inativa		
+348	vago348	Inativa		
+350	vago350	Inativa		
+352	vago352	Inativa		
+354	vago354	Inativa		
+358	vago358	Inativa		
+361	vago361	Inativa		
+362	vago362	Inativa		
+364	vago364	Inativa		
+365	vago365	Inativa		
+368	vago368	Inativa		
+369	vago369	Inativa		
+370	vago370	Inativa		
+374	vago374	Inativa		
+382	vago382	Inativa		
+388	vago388	Inativa		
+390	vago390	Inativa		
+391	vago391	Inativa		
+392	vago392	Inativa		
+397	vago397	Inativa		
+406	vago406	Inativa		
+407	vago407	Inativa		
+410	vago410	Inativa		
+415	vago415	Inativa		
+416	vago416	Inativa		
+417	vago417	Inativa		
+418	vago418	Inativa		
+419	vago419	Inativa		
+424	vago424	Inativa		
+425	vago425	Inativa		
+427	vago427	Inativa		
+430	vago430	Inativa		
+436	vago436	Inativa		
+438	vago438	Inativa		
+441	vago441	Inativa		
+442	vago442	Inativa		
+444	vago444	Inativa		
+448	vago448	Inativa		
+452	vago452	Inativa		
+455	vago455	Inativa		
+458	vago458	Inativa		
+459	vago459	Inativa		
+460	vago460	Inativa		
+461	vago461	Inativa		
+468	vago468	Inativa		
+469	vago469	Inativa		
+470	vago470	Inativa		
+476	vago476	Inativa		
+477	vago477	Inativa		
+478	vago478	Inativa		
+482	vago482	Inativa		
+486	vago486	Inativa		
+487	vago487	Inativa		
+489	vago489	Inativa		
+501	vago501	Inativa		
+502	vago502	Inativa		
+507	vago507	Inativa		
+508	vago508	Inativa		
+510	vago510	Inativa		
+511	vago511	Inativa		
+514	vago514	Inativa		
+520	vago520	Inativa		
+521	vago521	Inativa		
+523	vago523	Inativa		
+526	vago526	Inativa		
+527	vago527	Inativa		
+530	vago530	Inativa		
+531	vago531	Inativa		
+532	vago532	Inativa		
+533	vago533	Inativa		
+539	vago539	Inativa		
+541	vago541	Inativa		
+542	vago542	Inativa		
+543	vago543	Inativa		
+544	vago544	Inativa		
+545	vago545	Inativa		
+546	vago546	Inativa		
+547	vago547	Inativa		
+548	vago548	Inativa		
+549	vago549	Inativa		
+551	vago551	Inativa		
+552	vago552	Inativa		
+554	vago554	Inativa		
+556	vago556	Inativa		
+557	vago557	Inativa		
+559	vago559	Inativa		
+563	vago563	Inativa		
+566	vago566	Inativa		
+568	vago568	Inativa		
+569	vago569	Inativa		
+571	vago571	Inativa		
+573	vago573	Inativa		
+581	vago581	Inativa		
+593	vago593	Inativa		
+594	vago594	Inativa		
+595	vago595	Inativa		
+596	vago596	Inativa		
+597	vago597	Inativa		
+598	vago598	Inativa		
+599	vago599	Inativa		
+600	vago600	Inativa		
+414	Val Turismo Ltda ME	Ativa		
+538	Vazoli 9 de Julho - Eric Vaz de Lima Giglio	Ativa		
+440	Vazoli Angra - Mambucaba - Ederson Costa de Oliveira	Ativa		
+473	Vazoli Araçatuba - Sutter Serviços de Apoio Administrativo Ltda	Ativa		
+120	Vazoli Barretos	Ativa		
+428	Vazoli Botucatu - Lucalix Servicos de Informacoes Cadastrias Ltda	Ativa		
+463	Vazoli Floripa - D. R. Duarte Solucoes	Ativa		
+536	Vazoli Guapiaçu - Vazoli Franchising Ltda	Ativa		
+589	Vazoli Guaraci - Silvia Ribeiro de Souza Ltda	Ativa		
+359	Vazoli Guarulhos - Mary Ann Cobranças	Ativa		
+108	Vazoli Mateus Leme - Santiago soluções Administrativas Ltda Me	Ativa		
+497	Vazoli Olimpia	Ativa		
+535	Vazoli Olímpia Call Center - Vazoli Franchising Ltda	Ativa		
+363	Vazoli Recife Boa Vista - CS Soluções	Ativa		
+587	Vazoli Redenção - Sfls Negócios e oportunidades Eireli	Ativa		
+453	Vazoli São Manuel - Luis & Calixto Serviços de Informações Cadastrais Ltda	Ativa		
+540	Vazoli Severínia - Vazoli Olímpia Serviços Cadastrais Eireli	Ativa		
+537	Vazoli Viradouro - Vazoli Franchising Ltda	Ativa		
+578	Vfixa Assessoria em Mercados Futuros e Agronegócios Ltda	Ativa		
+130	Vida Nova Gvn - Gvn Corretores Encaminhamentos de propostas Eireli	Ativa		
+136	Wellness Sport Club Ltda	Ativa		
+116	Wolf Seeds do Brasil Ltda	Ativa		
+413	Yamada Contabilidade e Assessoria	Ativa		
+475	Yamada e Thomazello Sociedade de Advogados	Ativa		
+432	Yamada Outsourcing Lltda	Ativa		
+286	Ycs Comercial Reparos e Instalação de Produtos Nauticos LTDA	Ativa		
+465	Yellowin Computação Grafica Eireli	Ativa		
+408	Z.Y.B Produções Artisticas	Ativa		
+127	Zero1 Pneus - Centro Automotivo Zero 01 Pneus Barretos Ltda Me	Ativa
